@@ -1,0 +1,13 @@
+.internet {
+  background-color: skyblue;
+  display: block;
+  width: 630px;
+  float: left;
+}
+
+.intelligent {
+  background-color: yellow;
+  display: block;
+  width: 630px;
+  float: left;
+}

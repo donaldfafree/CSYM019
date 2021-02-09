@@ -1,0 +1,47 @@
+.clinical {
+  background-color: violet;
+  overflow: auto;
+}
+
+.internet {
+  background-color: skyblue;
+  display: block;
+  width: 50%;
+  float: left;
+  border-radius: 20px;
+}
+
+.intelligent {
+  background-color: yellow;
+  display: block;
+  width: 50%;
+  float: left;
+  border-radius: 20px;
+}
+
+p {
+  font-family: cursive;
+}
+
+h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.Modern {
+  background-color: greenyellow;
+  display: block;
+  width: 50%;
+  float: left;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.mobile {
+  background-color: rebeccapurple;
+  display: block;
+  width: 50%;
+  float: left;
+  margin-top: 20px;
+  padding-bottom: 6mm;
+  border-radius: 20px;
+}

@@ -1,0 +1,18 @@
+h2 {
+  color: red;
+}
+
+#darkred {
+  background-color: darkred;
+  display: inline;
+}
+
+.white {
+  color: white;
+  background-color: black;
+  display: inline;
+}
+
+article {
+  color: green;
+}
