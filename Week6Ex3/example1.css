@@ -1,0 +1,42 @@
+body {
+  background-color: palevioletred;
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: auto;
+  grid-template-areas:
+    "header"
+    "main"
+    "nav"
+    "footer";
+}
+
+main {
+  grid-area: main;
+  position: relative;
+  width: 50vw;
+  margin: auto;
+  background-color: beige;
+  opacity: 0.8;
+  margin-bottom: 1em;
+}
+
+
+header {
+  background-color: orangered;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  grid-area: header;
+}
+nav {
+  background-color: orange;
+  display: flex;
+  justify-content: center;
+  grid-area: nav;
+}
+
+footer {
+  background-color: blueviolet;
+  color: white;
+}
