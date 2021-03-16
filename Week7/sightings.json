@@ -1,0 +1,44 @@
+{
+	"sightings": [
+		{
+			"id": 1,
+			"animal": "Hare",
+			"number": 4,
+			"location": "UoN",
+			"date": "01-01-2021",
+			"time": "12:00:00",
+			"observor": {
+				"name": "Muawya Eldaw",
+				"email": "meldaw@gmail.com"				
+			},
+			"observations": "White hare seen drinking from the rain water collected in the playground."
+		},
+		{
+			"id": 2,
+			"animal": "Snowy Owl",
+			"number": 9,
+			"location": "LHub",
+			"date": "16-03-2021",
+			"time": "17:00:00",
+			"observor": {
+				"name": "Donald Iworh",
+				"email": "donjoe@gmail.com"				
+			},
+			"observations": "A very big black Snowy Owl flying across the woods in the campus."	
+		},
+		{
+			"id": 3,
+			"animal": "Otter",
+			"number": 6,
+			"location": "UniLag",
+			"date": "01-03-2021",
+			"time": "18:00:00",
+			"observor": {
+				"name": "Desmond Iworh",
+				"email": "desdoss@gmail.com"				
+			},
+			"observations": "An Otter was chasing students around the campus lol."
+		}
+
+	]
+}
